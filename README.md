@@ -1,1 +1,1 @@
-# Rag-Application-document-reader-DeepSeek
+# Gen-AI-With-Deep-Seek-R1
